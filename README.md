@@ -116,6 +116,5 @@ cv2.destroyAllWindows()
 ![Screenshot (36)](https://user-images.githubusercontent.com/75234807/165555686-b3ea07dd-4e01-4c11-b9e3-880d22c0a8c8.png)
 
 
-
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
